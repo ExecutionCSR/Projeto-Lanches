@@ -1,0 +1,51 @@
+{
+  "snacks_types": [
+    {"key": "Snack", "title": "Salgadinho"},
+    {"key": "Drink", "title": "Refri"},
+    {"key": "Candy", "title": "Balas"},
+    {"key": "Choco", "title": "Chocolate"}
+  ],
+
+
+  "snacks": [
+    {
+      "id": 1,
+      "name": "Cebolitos",
+      "about": "Salgadinho de Cebola",
+      "price": "1,50",
+      "photo":"https://www.elmachips.com.br/img/float-cebolitos.png",
+      "snacks_types": ["Snack"]
+    },
+
+    {
+      "id": 2,
+      "name": "Snickers",
+      "about": "Mata sua Fome",
+      "price": "1,50",
+      "photo":"https://pngimg.com/uploads/snickers/snickers_PNG98760.png",
+      "snacks_types": ["Choco"]
+    },
+
+    {
+      "id": 3,
+      "name": "Guarana-Antarctica",
+      "about": "Como Refresca",
+      "price": "2,00",
+      "photo":"https://www.ambev.com.br/conteudo/uploads/2019/03/guarana_296.png",
+      "snacks_types": ["Drink"]
+    },
+
+    {
+      "id": 4,
+      "name": "Bala Juquinha",
+      "about": "Doce que nem Mel",
+      "price": "0,50",
+      "photo":"https://pbs.twimg.com/media/DEIi8tLWsAEvAzO.png",
+      "snacks_types": ["Candy"]
+    }
+
+
+  ]
+
+
+}
